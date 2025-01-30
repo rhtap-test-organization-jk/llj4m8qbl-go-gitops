@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: llj4m8qbl-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/llj4m8qbl-go
